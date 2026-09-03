@@ -1,0 +1,6 @@
+{
+  "name": "CloudDocs",
+  "description": "Secure Cloud-Based Document Management & Collaboration Platform with S3 storage, folder hierarchy, version control, sharing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
